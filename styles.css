@@ -24,7 +24,7 @@ h2{
 h3{
   color: #11999e;
   font-family: 'Montserrat', sans-serif;
-  
+  font-size: 100%;
 }
 
 hr{
@@ -97,6 +97,7 @@ p{
 }
 .footer-link{
   padding: 20px;
+  font-size: 120%;
   
 }
 
